@@ -13,7 +13,7 @@
 2. Import the code into IDE for better visibility. (preferably, Intellij IDEA with maven auto-import enabled)
 3. Run with “test_suite.xml” file using following command, It will generate the log file named “test-run.log” file in “result” folder. 
 
-        mvn clean test -Dsurefire.suiteXmlFiles=api_tests.xml
+        mvn clean test -Dsurefire.suiteXmlFiles=test_suite.xml
        
        
         

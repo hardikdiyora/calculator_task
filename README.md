@@ -8,6 +8,8 @@
  - **Maven** as Build tool
  - **Data Driven** test strategy
  
+ **NOTE : Please follow the "Solution.pdf" for details.
+ 
  #### Steps to execute:
 1. Clone the code.
 2. Import the code into IDE for better visibility. (preferably, Intellij IDEA with maven auto-import enabled)

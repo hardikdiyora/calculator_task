@@ -8,7 +8,7 @@
  - **Maven** as Build tool
  - **Data Driven** test strategy
  
- **NOTE : Please follow the "Solution.pdf" for details.
+ **NOTE : Please follow the "Solution.pdf" for details.**
  
  #### Steps to execute:
 1. Clone the code.
